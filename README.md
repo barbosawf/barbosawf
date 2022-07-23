@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá! Meu nome é Wagner!
 
-<!--
-**barbosawf/barbosawf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Coisas sobre mim:
+- Engenheiro Agrônomo
+- Doutor em Entomologia
+- Mestre em Estatística Aplicada e Biometria
+- Membro do Laboratório de Inteligência Computacional e Aprendizado Estatístico ([LICAE](https://www.instagram.com/licae.ufv))
+- Membro do Laboratório de Análises e Pesquisas em Estatística ([LAPEA](https://www.instagram.com/lapea_ufv/))
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/barbosawf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbosawf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosawf&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
