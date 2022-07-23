@@ -23,4 +23,6 @@
 <a href = "mailto:contatowagner.barbosa@ufv.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wagner-faria-barbosa-b31149bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.researchgate.net/profile/Wagner-Barbosa-3" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/barbosawf/barbosawf/blob/output/github-contribution-grid-snake.svg)
 </div>
