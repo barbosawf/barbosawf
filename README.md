@@ -1,11 +1,13 @@
-## Olá! Meu nome é Wagner!
+## Hello! My name is Wagner!
 
-### Coisas sobre mim:
-- Engenheiro Agrônomo
-- Doutor em Entomologia
-- Mestre em Estatística Aplicada e Biometria
-- Membro do Laboratório de Inteligência Computacional e Aprendizado Estatístico ([LICAE](https://www.instagram.com/licae.ufv))
-- Membro do Laboratório de Análises e Pesquisas em Estatística ([LAPEA](https://www.instagram.com/lapea_ufv/))
+### About me:
+
+- Bachelor in Agronomic Engineering ([UFES](https://www.ufes.br) - Brazil)
+- PhD in Entomology ([UFV](https://www.ufv.br) - Brazil)
+- PhD in Applied Biological Sciences ([UGent](https://www.ugent.be/en) - Belgium)
+- Master in Applied Statistics and Biometrics ([UFV](https://www.ufv.br) - Brazil)
+- Former Member of the Laboratório de Inteligência Computacional e Aprendizado Estatístico ([LICAE](https://www.instagram.com/licae.ufv) - Brazil)
+- Member of the Laboratório de Análises e Pesquisas em Estatística ([LAPEA](https://www.instagram.com/lapea_ufv/) - Brazil)
 
 ###
 
