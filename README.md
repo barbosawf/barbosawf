@@ -2,24 +2,26 @@
 
 ### Currently
 
-- 🔬 Postdoctoral researcher at the Quantitative Genetics and Statistical Learning Lab ([QGSL](https://lab-qgsl-ufv.vercel.app/), IDATA, Universidade Federal de Viçosa - Brazil), coordinated by Prof. Kaio Dias
+- 🔬 Postdoctoral researcher at the Quantitative Genetics and Statistical Learning Lab ([QGSL](https://lab-qgsl-ufv.vercel.app/), IDATA, Universidade Federal de Viçosa - Brazil)
 - 🌽 Working on genomic prediction of maize hybrids: marker selection, temporal validation, GCA/SCA and genotype × environment models, in collaboration with Embrapa Milho e Sorgo
 - 💰 Funded by FAPEMIG
 
 ### Research interests
 
 - Mixed models and two-stage analysis of multi-environment trials (ASReml-R)
-- Genomic prediction (GBLUP, RKHS) and machine learning (XGBoost, random forest, MARS, Elastic Net)
+- Genomic prediction
+- Machine learning
 - Neural networks and deep learning
 - Remote sensing and environmental covariates with Google Earth Engine
-- Reproducible research with R, Quarto and Git
+- Reproducible research with R and Quarto
 
 ### Education
 
-- Bachelor in Agronomic Engineering ([UFES](https://www.ufes.br) - Brazil)
-- PhD in Entomology ([UFV](https://www.ufv.br) - Brazil)
-- PhD in Applied Biological Sciences ([UGent](https://www.ugent.be/en) - Belgium)
-- Master in Applied Statistics and Biometrics ([UFV](https://www.ufv.br) - Brazil)
+- Bachelor in Agronomic Engineering ([UFES](https://www.ufes.br) - Brazil, 2008)
+- Master in Plant Science ([UFV](https://www.ufv.br) - Brazil, 2010)
+- PhD in Entomology ([UFV](https://www.ufv.br) - Brazil, 2015)
+- PhD in Applied Biological Sciences ([UGent](https://www.ugent.be/en) - Belgium, 2015)
+- Master in Applied Statistics and Biometrics ([UFV](https://www.ufv.br) - Brazil, 2020)
 - PhD in Applied Statistics and Biometrics ([UFV](https://www.ufv.br) - Brazil, 2024)
 
 ### Featured projects
