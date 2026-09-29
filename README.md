@@ -39,6 +39,14 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbosawf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barbosawf/barbosawf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barbosawf/barbosawf/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/barbosawf/barbosawf/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Links:
 
 ###
